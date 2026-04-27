@@ -1,0 +1,20 @@
+{
+  "name": "qa-agents",
+  "version": "0.4.0",
+  "description": "Adversarial three-agent review pattern: a Finder produces severity-scored findings, an Auditor adversarially challenges each finding (gains points for valid disproofs, loses points for false ones), and a Referee judges disagreements against ground truth. Generalizable across artifact types \u2014 code, documents, PR-FAQs, 6-pagers, investment memos, contracts, financial models, and decisions. Inspired by Amazon's Bar Raiser mechanism applied to AI.",
+  "author": {
+    "name": "Mike Lingle"
+  },
+  "keywords": [
+    "qa",
+    "review",
+    "adversarial",
+    "bar-raiser",
+    "red-team",
+    "stress-test",
+    "audit",
+    "verification",
+    "multi-agent",
+    "finder-auditor-referee"
+  ]
+}

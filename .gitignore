@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# Node (in case anyone adds JS later)
+node_modules/
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Local test runs (the workspace folder pattern from the dev vault)
+**/qa-agents-workspace/
