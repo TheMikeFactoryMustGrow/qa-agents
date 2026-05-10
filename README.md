@@ -1,5 +1,7 @@
 # QA Agents
 
+> **DEPRECATED — bundled into [process-design-plugin](https://github.com/TheMikeFactoryMustGrow/process-design-plugin) as of 2026-05-10.** Install that plugin instead; the QA Agents skill ships inside it and is the version that's maintained going forward. This repo is archived as the v1 source for history; no further updates will land here.
+
 Adversarial three-agent review for any artifact — code, documents, deal memos, contracts, financial models, decisions. A Claude Code / Cowork plugin.
 
 ## What it does
